@@ -4,7 +4,7 @@ Hello There. I'm *Si6gma* and I'm learning how to code in JS.
 I will be using [***this***](https://www.udemy.com/course/the-complete-javascript-course/) course. Overall it's very good. Will keep updating my progress percentage here.
 #
 ```cs
-"Current Completion Percentage": [11%]
+"Current Completion Percentage": 11%
 ```
 
 ### Note:
