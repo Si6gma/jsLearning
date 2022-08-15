@@ -24,3 +24,24 @@ const neiv = {
 }
 
 // Coding Challenge 3.
+const mark = {
+    firstName: `Mark`,
+    lastName: `Miller`,
+    mass: 78,
+    height: 1.69,
+    calcBMI: function () {
+        this.bmi = (this.mass / (this.height * this.height))
+        return this.bmi;
+    }
+}
+const john = {
+    firstName: `John`,
+    lastName: `Smith`,
+    mass: 92,
+    height: 1.95,
+    calcBMI: function () {
+        this.bmi = (this.mass / (this.height * this.height))
+        return this.bmi;
+    }
+}
+// LOOPS
