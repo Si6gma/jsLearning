@@ -11,7 +11,7 @@ I will be using [***this***](https://www.udemy.com/course/the-complete-javascrip
 When I created this repository I already started this project and was done with 39 lectures, so I won't upload the things I've already done.
 #
 ## Overall Objective
-Able to make good looking websites for my own portfolio then go in competitions and have fun.
+Able to make good looking websites for my own portfolio then go in competitions and have fun. Don't question why I made this.
 #
 ```
 Let's hope this goes well...
